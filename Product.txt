@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-githf3gflk1f
-=======
-Hello world Saathi
-
->>>>>>> ProdFeature1
+Hello world Sathi
